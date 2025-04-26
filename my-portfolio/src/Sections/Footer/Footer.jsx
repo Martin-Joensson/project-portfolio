@@ -7,12 +7,22 @@ export const Footer = () => {
           <div className="scrolling-text-item">
             &nbsp;Martin Jönsson • Frontend Developer • Martin Jönsson •
             Frontend Developer • Martin Jönsson • Frontend Developer • Martin
-            Jönsson • Frontend Developer •&nbsp;
+            Jönsson • Frontend Developer • Martin Jönsson • Frontend Developer •
+            Martin Jönsson • Frontend Developer • Martin Jönsson • Frontend
+            Developer • Martin Jönsson • Frontend Developer • Martin Jönsson •
+            Frontend Developer • Martin Jönsson • Frontend Developer • Martin
+            Jönsson • Frontend Developer • Martin Jönsson • Frontend Developer
+            •&nbsp;
           </div>
           <div className="scrolling-text-item item2">
             &nbsp;Martin Jönsson • Frontend Developer • Martin Jönsson •
             Frontend Developer • Martin Jönsson • Frontend Developer • Martin
-            Jönsson • Frontend Developer •&nbsp;
+            Jönsson • Frontend Developer • Martin Jönsson • Frontend Developer •
+            Martin Jönsson • Frontend Developer • Martin Jönsson • Frontend
+            Developer • Martin Jönsson • Frontend Developer • Martin Jönsson •
+            Frontend Developer • Martin Jönsson • Frontend Developer • Martin
+            Jönsson • Frontend Developer • Martin Jönsson • Frontend Developer
+            •&nbsp;
           </div>
         </div>
       </div>

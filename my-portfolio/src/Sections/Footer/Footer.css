@@ -1,6 +1,6 @@
 /* Container styles */
 .scrolling-text-container {
-    --marquee-speed: 20s;
+    --marquee-speed: 40s;
     --direction: scroll-left;
     background-color: rebeccapurple;
     overflow: hidden;

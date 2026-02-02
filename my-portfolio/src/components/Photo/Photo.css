@@ -18,6 +18,8 @@ img {
 .purple {
   border-left: 10px solid rebeccapurple;
   border-bottom: 10px solid rebeccapurple;
+    border-right: 2px solid rebeccapurple;
+  border-top: 2px solid rebeccapurple;
 }
 
 .accent {

@@ -1,20 +1,6 @@
 {
   "projects": [
     {
-      "name": "Flip 7 - Score App",
-      "image": "https://flip7.raglancreation.com/preview.jpg",
-      "tags": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React",
-        "Zustand"
-      ],
-      "description": "Flip 7 is a fast-paced score tracking app designed for the Flip 7 card game by The Op Games, making it easy to track rounds, totals, and winners.",
-      "netlify": "https://flip7.raglancreation.com",
-      "github": "https://github.com/Martin-Joensson/flip7"
-    },
-    {
       "name": "glim.",
       "image": "https://images.unsplash.com/photo-1609542334025-778f9093a234?q=80&w=2535&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "tags": [
@@ -45,6 +31,14 @@
       "description": "Make a user to see the secrets inside!",
       "netlify": "https://project-auth-moonlight-flamingos.netlify.app/",
       "github": "https://github.com/linda-f/project-auth"
+    },
+    {
+      "name": "The Maze",
+      "image": "https://images.unsplash.com/photo-1532980216874-21f93fa9fd15?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["HTML5", "CSS3", "JavaScript", "APIs", "React", "Zustand"],
+      "description": "Take a journey, what will you find?",
+      "netlify": "https://the-zustand-maze.netlify.app/",
+      "github": "https://github.com/Martin-Joensson/project-labyrinth-zustand-vite"
     },
     {
       "name": "CineCheck",

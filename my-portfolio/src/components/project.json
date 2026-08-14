@@ -3,15 +3,25 @@
     {
       "name": "Flip 7 - Score App",
       "image": "https://flip7.raglancreation.com/preview.jpg",
-      "tags": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React",
-        "Zustand"
-      ],
+      "tags": ["HTML5", "CSS3", "JavaScript", "React", "Zustand"],
       "description": "Flip 7 is a fast-paced score tracking app designed for the Flip 7 card game by The Op Games, making it easy to track rounds, totals, and winners.",
       "netlify": "https://flip7.raglancreation.com",
+      "github": "https://github.com/Martin-Joensson/flip7"
+    },
+    {
+      "name": "BRF Hållsätra",
+      "image": "/brf-hallsatra.png",
+      "tags": ["HTML5", "CSS3", "JavaScript", "React"],
+      "description": "A webpage for a tenant-owners' association.",
+      "netlify": "https://brf-hallsatra.se",
+      "github": "https://github.com/Martin-Joensson/flip7"
+    },
+    {
+      "name": "Synvilla Publishing",
+      "image": "/synvilla.png",
+      "tags": ["HTML5", "CSS3", "JavaScript", "React"],
+      "description": "Flip 7 is a fast-paced score tracking app designed for the Flip 7 card game by The Op Games, making it easy to track rounds, totals, and winners.",
+      "netlify": "https://brf-hallsatra.se",
       "github": "https://github.com/Martin-Joensson/flip7"
     },
     {
@@ -39,14 +49,6 @@
       "github": "https://github.com/Martin-Joensson/Heroes-of-Cerulea-Character-Creator"
     },
     {
-      "name": "crypTech",
-      "image": "https://plus.unsplash.com/premium_photo-1661963874418-df1110ee39c1?q=80&w=2286&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "tags": ["HTML5", "CSS3", "JavaScript", "APIs", "React", "MongoDB"],
-      "description": "Make a user to see the secrets inside!",
-      "netlify": "https://project-auth-moonlight-flamingos.netlify.app/",
-      "github": "https://github.com/linda-f/project-auth"
-    },
-    {
       "name": "CineCheck",
       "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "tags": ["HTML5", "CSS3", "JavaScript", "APIs", "React"],
@@ -61,38 +63,6 @@
       "description": "Find out just what kind of pizza-person you are. Everything goes? Or particular tastes?",
       "netlify": "https://pizza-survey.netlify.app/",
       "github": "https://github.com/Martin-Joensson/project-survey-vite"
-    },
-    {
-      "name": "Music Releases",
-      "image": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "tags": ["HTML5", "CSS3", "JavaScript", "APIs", "React"],
-      "description": "Mock-up of the latest in Swiss music from Spotify.",
-      "netlify": "https://moon-music-releases.netlify.app/",
-      "github": "https://github.com/Martin-Joensson/project-music-releases-vite"
-    },
-    {
-      "name": "Happy Thoughts",
-      "image": "https://images.unsplash.com/photo-1530878955558-a6c31b9c97db?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "tags": ["HTML5", "CSS3", "JavaScript", "APIs", "React"],
-      "description": "Twitter/X clone but with just happy thoughts!",
-      "netlify": "https://manyhappythoughts.netlify.app/",
-      "github": "https://github.com/Martin-Joensson/project-happy-thoughts-vite"
-    },
-    {
-      "name": "Weather app",
-      "image": "https://images.unsplash.com/photo-1584267385494-9fdd9a71ad75?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "tags": ["HTML5", "CSS3", "JavaScript", "APIs"],
-      "description": "A small app that displays a four-day forecast of what the weather is like in a city.",
-      "netlify": "https://weathersmeather.netlify.app/",
-      "github": "https://github.com/Martin-Joensson/project-weather-app"
-    },
-    {
-      "name": "Chatbot",
-      "image": "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?q=80&w=1336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "tags": ["HTML5", "CSS3", "JavaScript"],
-      "description": "Order food through a chatbot.",
-      "netlify": "https://robot-restaurant.netlify.app/",
-      "github": "https://github.com/Martin-Joensson/project-chatbot"
     },
     {
       "name": "Recipe Library",

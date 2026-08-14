@@ -26,11 +26,12 @@ export const Skills = () => {
         </div>
         <div className="sub subUpcoming">
           <h3>Upcoming</h3>
-          <p>Angular</p>
+          <p>Next.js</p>
           <p>MongoDB</p>
         </div>
         <div className="sub subMore">
           <h3>More</h3>
+          <p>Eye-tracking</p>
           <p>Agile methodology</p>
           <p>Concept development</p>
           <p>Pair/mob-programming</p>

@@ -12,7 +12,7 @@
       "name": "BRF Hållsätra",
       "image": "/brf-hallsatra.png",
       "tags": ["HTML5", "CSS3", "JavaScript", "React"],
-      "description": "A webpage for a tenant-owners' association.",
+      "description": "A webpage for a tenant-owners' association. Made by consluting with the boardmembers.",
       "netlify": "https://brf-hallsatra.se",
       "github": "https://github.com/Martin-Joensson/flip7"
     },
@@ -20,7 +20,7 @@
       "name": "Synvilla Publishing",
       "image": "/synvilla.png",
       "tags": ["HTML5", "CSS3", "JavaScript", "React"],
-      "description": "Flip 7 is a fast-paced score tracking app designed for the Flip 7 card game by The Op Games, making it easy to track rounds, totals, and winners.",
+      "description": "Makers of TTRPGS, distributed to the masses for free!",
       "netlify": "https://brf-hallsatra.se",
       "github": "https://github.com/Martin-Joensson/flip7"
     },

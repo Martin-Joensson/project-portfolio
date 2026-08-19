@@ -3,7 +3,7 @@
     {
       "name": "Flip 7 - Score App",
       "image": "https://flip7.raglancreation.com/preview.jpg",
-      "tags": ["HTML5", "CSS3", "JavaScript", "React", "Zustand"],
+      "tags": ["HTML5", "CSS3", "JavaScript", "React"],
       "description": "Flip 7 is a fast-paced score tracking app designed for the Flip 7 card game by The Op Games, making it easy to track rounds, totals, and winners.",
       "netlify": "https://flip7.raglancreation.com",
       "github": "https://github.com/Martin-Joensson/flip7"
